@@ -15,4 +15,4 @@ Prerequisites: Students should have some familiarity with formal semantics/pragm
 
 ## Materials
 
-* [Syllabus and Day 1 lecture notes](https://docs.google.com/document/d/e/2PACX-1vSegwb9cSf82a-Rl0XiXPAQREdw8dfePQHMt4X9AlhDV7lGvrxc2js7qLyZntl2bljn2q-ZHDe-N_O6/pub)
+* [Syllabus and Day 1 + 2 lecture notes](https://docs.google.com/document/d/e/2PACX-1vSegwb9cSf82a-Rl0XiXPAQREdw8dfePQHMt4X9AlhDV7lGvrxc2js7qLyZntl2bljn2q-ZHDe-N_O6/pub)
